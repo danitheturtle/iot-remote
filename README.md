@@ -3,7 +3,7 @@
 
 This is a prototype reprogrammable IoT remote control with a touch screen.
 
-Most of the work involved designing and building the physical device. I used a wifi board and touch screen connected to an arduino.
+Most of the work involved designing and building the physical device. I used a wifi-enabled arduino board and adafruit touch screen.
 
 For the proof of concept, I divided the touchscreen into 6 virtual buttons connected to IFTTT endpoints I could customize on the fly. Dimming smart lights, tweeting, adjusting house temperature.... possibilities are endless!
 
